@@ -1,0 +1,125 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SRIVANTH S - Resume</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f6f8;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: #fff;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            margin-bottom: 5px;
+            color: #1f2937;
+        }
+        h2 {
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 5px;
+            margin-top: 30px;
+            color: #111827;
+        }
+        p {
+            margin: 6px 0;
+        }
+        .header {
+            text-align: center;
+        }
+        .contact {
+            font-size: 14px;
+            color: #555;
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 6px;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Header -->
+    <div class="header">
+        <h1>Srivanth</h1>
+        <p class="highlight">Full Stack</p>
+        <p class="contact">
+            📞 +91-9535317897 | srivanths231@gmail.com | 🌐 LinkedIn / GitHub
+        </p>
+    </div>
+
+    <!-- Summary -->
+    <h2>Professional Summary</h2>
+    <p>
+        Results-driven professional with experience in software development, AI-based solutions,
+        and business operations. Passionate about building scalable applications, leading teams,
+        and delivering value-driven technology solutions.
+    </p>
+
+    <!-- Skills -->
+    <h2>Skills</h2>
+    <ul>
+        <li>Programming: HTML, CSS, JavaScript, Python</li>
+        <li>Backend: FastAPI, REST APIs</li>
+        <li>Databases: PostgreSQL, MongoDB</li>
+        <li>Tools: Git, GitHub, VS Code</li>
+        <li>Other: UI/UX Basics, System Design, Cloud (AWS – Basics)</li>
+    </ul>
+
+    <!-- Experience -->
+    <h2>Work Experience</h2>
+    <p class="highlight">Student / Intership – JB Arrowstar Solutions Pvt Ltd</p>
+    <p><i>2024 – Present</i></p>
+    <ul>
+        <li>Leading IT and non-IT recruitment initiatives.</li>
+        <li>Managing AI and automation-based projects.</li>
+        <li>Handling client communication and offshore coordination.</li>
+    </ul>
+
+    <p class="highlight">Student </p>
+    <p><i>2023 – Present</i></p>
+    <ul>
+        <li>Providing automated gas, fire, and smoke detection solutions.</li>
+        <li>Working with real-time monitoring and safety systems.</li>
+    </ul>
+
+    <!-- Education -->
+    <h2>Education</h2>
+    <p class="highlight">Bachelor’s Degree</p>
+    <p>BNU University / SDC College </p>
+
+    <!-- Projects -->
+    <h2>Projects</h2>
+    <ul>
+        <li><b>ConX AI:</b> AI-powered platform for engineers and professionals.</li>
+        <li><b>Mobile Application:</b> Designed and developed a business-focused mobile app.</li>
+    </ul>
+
+    <!-- Declaration -->
+    <h2>Declaration</h2>
+    <p>
+        I hereby declare that the information provided above is true and correct to the best of my knowledge.
+    </p>
+
+</div>
+
+</body>
+</html>
